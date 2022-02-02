@@ -1,6 +1,8 @@
 # This a sample for selenium to run with docker container
 ## Introduction:-
 * In this Example we saw a linkedin page follower profile link extract
+
+**YOU CAN WE WHAT'S GOING IN DOCKER BY http://localhost:4444/ui/index.htm GIVES REMOTE VIEW OF UR APPLICATION** with default of password of session is `secret`
 ## lib:-
 * selenium
 # Steps:-
